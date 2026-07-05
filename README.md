@@ -1,4 +1,4 @@
-Intestine Secretome Paper
+C. elegans aging intestine secretory pathway proteins paper
 
 Jupyter notebook
 Has the code for mass spec pairwise statistical analysis and PCA
